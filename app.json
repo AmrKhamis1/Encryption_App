@@ -4,25 +4,35 @@
     "slug": "encryption",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo2.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/logo2.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000000"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.amrkhamis.encryption",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "foregroundImage": "./assets/logo2.png",
+        "backgroundColor": "#000000"
+      },
+      "package": "com.amrkhamis.encryption"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/logo2.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c34eff8c-1421-494e-abc8-be88697214de"
+      }
     }
   }
 }
