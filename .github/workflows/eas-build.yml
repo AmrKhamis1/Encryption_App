@@ -28,7 +28,7 @@ jobs:
       - name: Authenticate with Expo
         env:
           EXPO_TOKEN: ${{ secrets.EXPO_TOKEN }}
-        run: echo "EXPO_TOKEN=${EXPO_TOKEN}" >> $GITHUB_ENV
+        # run: echo "EXPO_TOKEN=${EXPO_TOKEN}" >> $GITHUB_ENV
         run: eas login --token ${EXPO_TOKEN}
       - name: Run iOS build
         run: eas build --platform ios --profile development --non-interactive
