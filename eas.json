@@ -8,7 +8,9 @@
       "developmentClient": true,
       "distribution": "internal",
       "ios": {
-        "buildType": "development"
+           "release": {
+        "workflow": "managed"
+      }
       }
     },
     "preview": {
