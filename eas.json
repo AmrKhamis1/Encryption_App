@@ -7,15 +7,15 @@
     "development": {
       "developmentClient": true,
       "distribution": "internal",
-      "environment": "development"
+      "ios": {
+        "buildType": "development"
+      }
     },
     "preview": {
-      "distribution": "internal",
-      "environment": "preview"
+      "distribution": "internal"
     },
     "production": {
-      "autoIncrement": true,
-      "environment": "production"
+      "autoIncrement": true
     }
   },
   "submit": {
