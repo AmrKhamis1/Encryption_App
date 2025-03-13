@@ -23,6 +23,7 @@ jobs:
         run: |
           npm install -g eas-cli
           npm install
+          npm install expo-dev-client  # ✅ Install expo-dev-client
 
       - name: Authenticate with Expo
         env:
@@ -37,4 +38,3 @@ jobs:
         with:
           name: ios-app
           path: ./build
-          node-version: 18
