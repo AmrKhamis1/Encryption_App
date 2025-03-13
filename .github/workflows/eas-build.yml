@@ -29,9 +29,11 @@ jobs:
 
       - name: Run iOS build
         run: eas build --platform ios --profile development --non-interactive
+      - name: Cleanup GitHub Runner Cache
+        run: sudo rm -rf /usr/local/share/boost /usr/local/Cellar
 
       - name: Upload build artifact
         uses: actions/upload-artifact@v4
         with:
           name: ios-app
-          path: ./build
+          path: ${{ github.workspace}}
