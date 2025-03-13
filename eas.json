@@ -11,12 +11,7 @@
     "preview": {
       "distribution": "internal"
     },
-    "production": {
-      "autoIncrement": true,
-            "ios": {
-        "buildType": "development"
-      }
-    }
+    "production": { }
   },
   "submit": {
     "production": {}
