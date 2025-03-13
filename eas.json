@@ -8,9 +8,6 @@
       "developmentClient": true,
       "distribution": "internal",
       "ios": {
-           "release": {
-        "workflow": "managed"
-      }
       }
     },
     "preview": {
