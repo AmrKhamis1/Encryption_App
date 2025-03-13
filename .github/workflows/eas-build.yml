@@ -37,3 +37,4 @@ jobs:
         with:
           name: ios-app
           path: ./build
+          node-version: 18
