@@ -31,7 +31,7 @@ jobs:
         run: echo "EXPO_TOKEN=${EXPO_TOKEN}" >> $GITHUB_ENV
         # run: eas login --token EXPO_TOKEN
       - name: Run iOS build
-        run: eas build --platform ios --profile development
+        run: eas build -p ios
 
       - name: Upload build artifact
         uses: actions/upload-pages-artifact@v3
