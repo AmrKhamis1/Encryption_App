@@ -23,7 +23,7 @@ jobs:
         run: |
           npm install -g eas-cli
           npm install
-          npx install expo-dev-client  # ✅ Install expo-dev-client
+          npm install expo-dev-client  # ✅ Install expo-dev-client
 
       - name: Authenticate with Expo
         env:
