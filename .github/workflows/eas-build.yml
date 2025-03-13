@@ -27,7 +27,7 @@ jobs:
           EXPO_TOKEN: bP6a3RjVWKnW01DB6eJeMMLiVNLfROHEU5t2KpDS
 
       - name: Authenticate with Expo
-        run: eas login --token "bP6a3RjVWKnW01DB6eJeMMLiVNLfROHEU5t2KpDS"
+        run: eas login --token ${{ EXPO_TOKEN }}
 
       - name: Run iOS build
         run: eas build --platform ios --profile development --non-interactive
