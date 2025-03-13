@@ -28,7 +28,7 @@ jobs:
       - name: Authenticate with Expo
         env:
           EXPO_TOKEN: ${{ secrets.EXPO_TOKEN }}
-        run: eas login --token $EXPO_TOKEN
+        run: eas login --token ${{ secrets.EXPO_TOKEN }}
 
       - name: Run iOS build
         run: |
