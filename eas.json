@@ -10,6 +10,10 @@
       }}
       ,
     "development": {
+            "ios": {
+        "distribution": "internal",
+        "credentialsSource": "local"
+      },
       "developmentClient": true,
       "distribution": "internal",
       "extends": "production"
