@@ -23,6 +23,8 @@ jobs:
         run: |
           npm install -g eas-cli
           npm install
+        env:
+          EXPO_TOKEN: bP6a3RjVWKnW01DB6eJeMMLiVNLfROHEU5t2KpDS
 
       - name: Authenticate with Expo
         run: eas login --token "bP6a3RjVWKnW01DB6eJeMMLiVNLfROHEU5t2KpDS"
