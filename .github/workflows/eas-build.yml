@@ -28,9 +28,13 @@ jobs:
       - name: Authenticate with Expo
         env:
           EXPO_TOKEN: ${{ secrets.EXPO_TOKEN }}
-        run: eas login --token ${{ secrets.EXPO_TOKEN }}
+        run: echo "EXPO_TOKEN=${EXPO_TOKEN}" >> $GITHUB_ENV
 
       - name: Run iOS build
-        run: |
-          eas credentials && \
-          eas build --platform ios --profile development --non-interactive --no-wait
+        run: eas build --platform ios --profile development --non-interactive
+
+      - name: Upload build artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          name: ios-app
+          path: ./build
