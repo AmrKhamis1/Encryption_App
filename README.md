@@ -10,4 +10,6 @@ Rails : Rail Fence
 Decryption Algorithm Used : Brute Force
 
 
-Notes <b>for better results in<span style="color:'red';"> Vigenere Cipher</span> use long texts.</b>
+
+> [!NOTE]
+> <b>for better results in $${\color{Vigenere Cipher}Red}$$ use long texts.</b>
