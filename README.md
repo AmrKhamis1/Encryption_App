@@ -7,10 +7,10 @@ Shifting : $${\color{lightblue}Ceasar Cipher}$$ </br>
 Key : $${\color{lightblue}Vigenere Cipher}$$ </br>
 Rails :  $${\color{lightblue}Rail Fence}$$ </br>
 
-> [!IMPORTANT]
+> [!NOTE]
 > Decryption Algorithm Used : Brute Force </br>
 
 
 
-> [!NOTE]
+> [!IMPORTANT]
 > for better results in $${\color{lightblue}Vigenere Cipher}$$ use long texts.
