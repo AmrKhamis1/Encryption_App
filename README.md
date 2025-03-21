@@ -2,9 +2,9 @@ NCT task for Encryption/Decryption app using Caesar Cipher, Vigenere Cipher and 
 
 Run : npx expo start </br>
 
-Shifting : Ceasar Cipher </br>
-Key : Vigenere Cipher </br>
-Rails : Rail Fence </br>
+Shifting : $${\color{lightblue}Ceasar Cipher}$$ </br>
+Key : $${\color{lightblue}Vigenere Cipher}$$ </br>
+Rails :  $${\color{lightblue}Rail Fence}$$ </br>
 
 
 Decryption Algorithm Used : Brute Force </br>
