@@ -7,8 +7,8 @@ Shifting : $${\color{lightblue}Ceasar Cipher}$$ </br>
 Key : $${\color{lightblue}Vigenere Cipher}$$ </br>
 Rails :  $${\color{lightblue}Rail Fence}$$ </br>
 
-
-Decryption Algorithm Used : Brute Force </br>
+> [!IMPORTANT]
+> Decryption Algorithm Used : Brute Force </br>
 
 
 
