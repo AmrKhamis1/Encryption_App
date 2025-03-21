@@ -12,4 +12,4 @@ Decryption Algorithm Used : Brute Force
 
 
 > [!NOTE]
-> for better results in $${\color{red}Vigenere Cipher}$$ use long texts.
+> for better results in $${\color{lightblue}Vigenere Cipher}$$ use long texts.
