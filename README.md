@@ -1,6 +1,7 @@
 NCT task for Encryption/Decryption app using Caesar Cipher, Vigenere Cipher and Rail Fence Algorithms </br>
 
-Run : npx expo start </br>
+Run : </br>
+```npx expo start ```
 
 Shifting : $${\color{lightblue}Ceasar Cipher}$$ </br>
 Key : $${\color{lightblue}Vigenere Cipher}$$ </br>
