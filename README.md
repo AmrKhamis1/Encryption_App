@@ -21,7 +21,8 @@ Rails :  $${\color{lightblue}Rail Fence}$$ </br>
 <b>Heatmap for Test Cases (random key + encrypted text)</b>
 
 > [!IMPORTANT]
-> The Overall Test Accuracy is >   $${\color{red}90%}$$ use long texts.
+> The Overall Test Accuracy is > $${\color{red} "90%" }$$ use long texts.
+> 
 📊 Heatmap Interpretation:
 
     🔴 Red Areas → Poor decryption accuracy (harder key-text combos).
