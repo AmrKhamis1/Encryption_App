@@ -10,7 +10,13 @@ Rails :  $${\color{lightblue}Rail Fence}$$ </br>
 
 > [!NOTE]
 > Decryption Algorithm Used : Brute Force </br>
-> Decryption Methods Used ( V i g e n e r e ) : Brute Force ,IC ,Frequency Analysis, Dictionary-Based Validation, Key Refinement </br>
+> Decryption Methods Used ( V i g e n e r e ) :
+> Brute Force
+> IC
+> Frequency Analysis
+> Dictionary-Based Validation
+> Key Refinement
+</br>
 
 
 
@@ -21,7 +27,7 @@ Rails :  $${\color{lightblue}Rail Fence}$$ </br>
 <b>Heatmap for Test Cases (random key + encrypted text)</b>
 
 > [!IMPORTANT]
-> The Overall Test Accuracy is > $${\color{red} "90%" }$$ use long texts.
+> <b>The Overall Test Accuracy is > 90%.</b>
 > 
 📊 Heatmap Interpretation:
 
