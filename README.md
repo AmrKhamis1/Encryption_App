@@ -15,7 +15,7 @@ Rails :  $${\color{lightblue}Rail Fence}$$ </br>
 > [!IMPORTANT]
 > for better results in $${\color{lightblue}Vigenere Cipher}$$ use long texts.
 >
-
+</br></br></br>
 <b>Heatmap for Test Cases (random key + encrypted text)</b>
 
 📊 Heatmap Interpretation:
