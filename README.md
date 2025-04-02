@@ -10,15 +10,18 @@ Rails :  $${\color{lightblue}Rail Fence}$$ </br>
 
 > [!NOTE]
 > Decryption Algorithm Used : Brute Force </br>
+> Decryption Methods Used ( V i g e n e r e ) : Brute Force ,IC ,Frequency Analysis, Dictionary-Based Validation, Key Refinement </br>
+
 
 
 
 > [!IMPORTANT]
-> for better results in $${\color{lightblue}Vigenere Cipher}$$ use long texts.
->
+> For better results in $${\color{lightblue}Vigenere Cipher}$$ use long texts.
 </br></br></br>
 <b>Heatmap for Test Cases (random key + encrypted text)</b>
 
+> [!IMPORTANT]
+> The Overall Test Accuracy is >   $${\color{red}90%}$$ use long texts.
 📊 Heatmap Interpretation:
 
     🔴 Red Areas → Poor decryption accuracy (harder key-text combos).
