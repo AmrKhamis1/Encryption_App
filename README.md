@@ -14,3 +14,7 @@ Rails :  $${\color{lightblue}Rail Fence}$$ </br>
 
 > [!IMPORTANT]
 > for better results in $${\color{lightblue}Vigenere Cipher}$$ use long texts.
+>
+
+![Figure_1](https://github.com/user-attachments/assets/401cf498-9558-4cde-862e-a16e344e5b28)
+
