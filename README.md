@@ -1,4 +1,4 @@
-NCT task for Encryption/Decryption app using Caesar Cipher, Vigenere Cipher and Rail Fence Algorithms </br>
+NCTU task for Encryption/Decryption app using Caesar Cipher, Vigenere Cipher and Rail Fence Algorithms </br>
 
 
 Shifting : $${\color{lightblue}Ceasar Cipher}$$ </br>
