@@ -5,6 +5,9 @@ Shifting : $${\color{lightblue}Ceasar Cipher}$$ </br>
 Key : $${\color{lightblue}Vigenere Cipher}$$ </br>
 Rails :  $${\color{lightblue}Rail Fence}$$ </br>
 
+ <b>Wep app version:</b>
+ (https://github.com/Mahmoud-G4/Encryption-App-React-Web)
+
 > [!NOTE]
 > Decryption Algorithm Used : Brute Force </br>
 
