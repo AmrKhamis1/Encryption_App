@@ -10,7 +10,7 @@ Rails :  $${\color{lightblue}Rail Fence}$$ </br>
 
 > [!NOTE]
 > Decryption Algorithm Used : Brute Force </br>
-</br>
+
 > [!NOTE]
 > This is the mobile Version for more accurate results please use the upove Web Version </br>
 </br>
