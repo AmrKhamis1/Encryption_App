@@ -12,7 +12,7 @@ Rails :  $${\color{lightblue}Rail Fence}$$ </br>
 > Decryption Algorithm Used : Brute Force </br>
 
 > [!NOTE]
-> This is the mobile Version for more accurate results please use the Web Version mention above</br>
+> This is the mobile Version for more accurate results please use the Web Version mentioned above ^ </br>
 </br>
 Decryption Methods Used ( V i g e n e r e ) :</br>
 Brute Force </br>
