@@ -1,4 +1,5 @@
 // App.js
+import "expo-asset";
 import React from "react";
 import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
@@ -20,6 +21,7 @@ export default function App() {
           },
           headerTintColor: "#BB86FC",
           headerTitleStyle: {
+            fontSize: 20,
             fontWeight: "bold",
           },
         }}

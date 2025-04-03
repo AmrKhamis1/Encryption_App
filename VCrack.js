@@ -514,7 +514,7 @@ export default function VCracker({ navigation }) {
 
         {isLoading && (
           <View style={styles.loadingContainer}>
-            <ActivityIndicator size="large" color="#BB86FC" />
+            <ActivityIndicator size={20} color="#BB86FC" />
             <Text style={styles.loadingText}>Analyzing cipher text...</Text>
           </View>
         )}

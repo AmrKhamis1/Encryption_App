@@ -4,25 +4,19 @@
     "appVersionSource": "remote"
   },
   "build": {
-        "simulator": {
-      "ios": {
-        "simulator": true
-      }}
-      ,
     "development": {
-            "ios": {
-        "distribution": "internal",
-        "credentialsSource": "local"
-      },
       "developmentClient": true,
-      "distribution": "internal",
-      "extends": "production"
+      "distribution": "internal"
     },
     "preview": {
-      "distribution": "internal",
-      "extends": "production"
+      "distribution": "internal"
     },
-    "production": {"node": "18.18.0" }
+    "production": {
+      "autoIncrement": true,
+      "android": {
+        "buildType": "apk" 
+      }
+    }
   },
   "submit": {
     "production": {}
