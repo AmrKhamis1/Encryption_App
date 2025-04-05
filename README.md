@@ -18,8 +18,6 @@ Decryption Methods Used ( V i g e n e r e ) :</br>
 Brute Force </br>
 IC </br>
 Frequency Analysis </br>
-Dictionary-Based Validation </br>
-Key Refinement </br>
 </br> </br>
 
 
