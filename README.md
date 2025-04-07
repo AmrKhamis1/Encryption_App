@@ -37,7 +37,8 @@ Frequency Analysis </br>
     🔵 Blue Areas → High accuracy (easy to decrypt cases).
 
     ⚪ White Areas → Transition zones.
-    
+
+Wep Version (Best Accuracy)
 ![Figure_1](https://github.com/user-attachments/assets/4704865c-9671-4dbb-8c3f-dfacef98f331)
 
 
