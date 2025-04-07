@@ -37,9 +37,10 @@ Frequency Analysis </br>
     🔵 Blue Areas → High accuracy (easy to decrypt cases).
 
     ⚪ White Areas → Transition zones.
+    
+![Figure_1](https://github.com/user-attachments/assets/4704865c-9671-4dbb-8c3f-dfacef98f331)
 
 
-![Figure_1](https://github.com/user-attachments/assets/401cf498-9558-4cde-862e-a16e344e5b28)
  </br> </br> </br>
 Install : </br>
 ```npm install ```
