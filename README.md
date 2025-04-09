@@ -6,7 +6,7 @@ Key : $${\color{lightblue}Vigenere Cipher}$$ </br>
 Rails :  $${\color{lightblue}Rail Fence}$$ </br>
 
  <b>Wep app version:</b>
- (https://github.com/AmrKhamis/Encryption-App-React-Web)
+ ([https://github.com/AmrKhamis/Encryption-App-React-Web](https://github.com/AmrKhamis1/Encryption_Decryption_Wep_App))
 
 > [!NOTE]
 > Decryption Algorithm Used : Brute Force </br>
