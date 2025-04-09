@@ -6,13 +6,10 @@ Key : $${\color{lightblue}Vigenere Cipher}$$ </br>
 Rails :  $${\color{lightblue}Rail Fence}$$ </br>
 
  <b>Wep app version:</b>
- (https://github.com/Mahmoud-G4/Encryption-App-React-Web)
+ (https://github.com/AmrKhamis/Encryption-App-React-Web)
 
 > [!NOTE]
 > Decryption Algorithm Used : Brute Force </br>
-
-> [!NOTE]
-> This is the mobile Version for more accurate results please use the Web Version mentioned above ^ </br>
 </br>
 Decryption Methods Used ( V i g e n e r e ) :</br>
 Brute Force </br>
