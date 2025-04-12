@@ -6,20 +6,15 @@ Key : $${\color{lightblue}Vigenere Cipher}$$ </br>
 Rails :  $${\color{lightblue}Rail Fence}$$ </br>
 
  <b>Wep app version:</b>
- (https://github.com/Mahmoud-G4/Encryption-App-React-Web)
+ ([https://github.com/AmrKhamis/Encryption-App-React-Web](https://github.com/AmrKhamis1/Encryption_Decryption_Wep_App))
 
 > [!NOTE]
 > Decryption Algorithm Used : Brute Force </br>
-
-> [!NOTE]
-> This is the mobile Version for more accurate results please use the upove Web Version </br>
 </br>
 Decryption Methods Used ( V i g e n e r e ) :</br>
 Brute Force </br>
 IC </br>
 Frequency Analysis </br>
-Dictionary-Based Validation </br>
-Key Refinement </br>
 </br> </br>
 
 
@@ -40,9 +35,14 @@ Key Refinement </br>
 
     ⚪ White Areas → Transition zones.
 
+Wep Version (Best Accuracy)
+![Figure_1](https://github.com/user-attachments/assets/4704865c-9671-4dbb-8c3f-dfacef98f331)
 
-![Figure_1](https://github.com/user-attachments/assets/401cf498-9558-4cde-862e-a16e344e5b28)
+
  </br> </br> </br>
+Install : </br>
+```npm install ```
+</br>
 Run : </br>
 ```npx expo start ```
 
